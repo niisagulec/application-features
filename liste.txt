@@ -1,0 +1,5 @@
+SPOTIFY
+1-Çevrimdışı Dinleme – Şarkıları indirerek internet olmadan dinleme imkanı sunar.
+2-Kişiselleştirilmiş Öneriler – Dinleme alışkanlıklarına göre çalma listeleri ve öneriler sunar.
+3-Podcast ve Sesli İçerik – Sadece müzik değil, podcast ve sesli kitapları da dinleyebilirsin.
+4-Grup Oturumu – Arkadaşlarınla aynı anda aynı şarkıyı dinleyebilirsin.
